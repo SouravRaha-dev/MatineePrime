@@ -10,7 +10,7 @@ import java.util.Scanner;
 public final class Network {
     private static final String TAG = Network.class.getSimpleName();
     //TODO: Get your own API Key and paste it in the API_KEY String
-    private static final String APT_KEY = "7c9d117f70c51ce9098642e0dbf22427";
+    private static final String APT_KEY = "";
     private static final String BASE_URL = "https://api.themoviedb.org/3/movie/";
     private static final String POPULARITY_PARAM = "popular";
     private static final String TOP_RATING_PARAM = "top_rated";
